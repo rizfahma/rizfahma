@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizfahma
-- 👀 I’m interested in web development, Python programming, and data science.
-- 🌱 I’m currently learning JS, Python, etc.
-- 💞️ I’m looking to collaborate on various projects ranged from web development to data analysis.
+- 👀 I’m interested in web development, and data analytics.
+- 🌱 I’m currently learning HTML, CSS, JS, React.
+- 💞️ I’m looking to collaborate on various projects ranged from front end development to data analysis.
 - 📫 How to reach me: you can reach me on twitter @rizfahma
 
 <!---
